@@ -2,6 +2,8 @@
 
 *AI Engineer & Technical Project Manager — Computer Vision · Applied ML · Data Analytics*
 
+✨ [View my interactive profile](https://claude.ai/code/artifact/41324912-f2bd-46df-b465-133173f42a1b)
+
 I build AI solutions that solve real business problems, not just models that work in a notebook.
 
 My path started in Electrical Engineering, designing and improving systems where reliability, safety, and operational performance mattered every day. That gave me an engineer's instinct: understand the problem deeply, design practical solutions, and measure results.
